@@ -1,4 +1,4 @@
-var title = "Shēntǐ";
+var title = "Shēntǐ (1)";
 
 var words = {
     "shenti": {
